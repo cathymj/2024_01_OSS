@@ -17,7 +17,7 @@
 
 ## 기말 팀 프로젝트
 | 번호 | 팀이름 | 주제 | github | 발표자료 | A/S |
-|:----------:|:----------:|----------|----------|----------|----------|
+|:----------:|:----------:|----------|----------|:----------:|----------|
 | 1  | A | 2048 | [https://github.com/JungHJ99/2048_KAU](https://github.com/JungHJ99/2048_KAU) |[A](path/to/A_final.pptx)  | |
 | 2  | B | FlappyBird | [https://github.com/bbky323/FlappyProject.git](https://github.com/bbky323/FlappyProject.git) | [B](path/to/B_final.pptx) |  |
 | 3  | C | SankeAndApple | [https://github.com/P-juuny/OpenSource-C.git](https://github.com/P-juuny/OpenSource-C.git) | [C](path/to/C_final.pptx) | |
