@@ -16,7 +16,7 @@
 
 
 ## 기말 팀 프로젝트
-| 번호&nbsp; | 팀이름 | 주제 | github | 발표자료&nbsp; | A/S |
+| 번호 | 팀이름 | 주제 | github | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|:----------:|----------|
 | 1  | A | 2048 | [https://github.com/JungHJ99/2048_KAU](https://github.com/JungHJ99/2048_KAU) |[A](path/to/A_final.pptx)  | |
 | 2  | B | FlappyBird | [https://github.com/bbky323/FlappyProject.git](https://github.com/bbky323/FlappyProject.git) | [B](path/to/B_final.pptx) |  |
@@ -27,4 +27,4 @@
 | 7  | G | ShootingGame | [https://github.com/sxxcxng/OSS_teamG.git](https://github.com/sxxcxng/OSS_teamG.git) | [G](path/to/G_final.pdf) |  |
 | 8  | H | BattleShip | [https://github.com/KariV-824/OSS](https://github.com/KariV-824/OSS)| [H](path/to/H_final.pptx) |  |
 | 9  | I | DinosaurGame | [https://github.com/Joo-Nick/OSS-Project.git](https://github.com/Joo-Nick/OSS-Project.git) |[I](path/to/I_final.pptx)|  |
-| 10 | J | 무기강화&nbsp;미니게임 | [https://github.com/OSS-J](https://github.com/OSS-J) | [J](path/to/J_final.pptx) |  |
+| 10 | J | 무기강화미니게임 | [https://github.com/OSS-J](https://github.com/OSS-J) | [J](path/to/J_final.pptx) |  |
