@@ -4,14 +4,14 @@
 | 번호 | 팀이름 | 주제 | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|----------|
 | 1 | A | Docker & Kubernetes | [A](path/to/A.pptx) | [A_A/S](path/to/A_AS.pdf) |
-| 2 | B | PyTest |  [B](path/to/B.pptx), [B_appendix](path/to/B_Appendix.pptx) |  |
+| 2 | B | PyTest |  [B](path/to/B.pptx), [B_appendix](path/to/B_Appendix.pptx) | [B_A/S](path/to/B_AS.docx) |
 | 3 | C | Docker & Kubernete | [C](path/to/C.pptx) |  |
 | 4 | D | Jenkins | [D](path/to/D.pptx) |  |
 | 5 | E | Docker & Kubernetes |  [E](path/to/E.pptx) |  |
 | 6 | F | Jenkins | [F](path/to/F.pptx) | |
 | 7 | G | PyTest | [G](path/to/G.pdf) | |
 | 8 | H | CMake |  [H](path/to/H.pptx) |  |
-| 9 | I | CMake | [I](path/to/I.pptx) |  |
+| 9 | I | CMake | [I](path/to/I.pptx) | [I_A/S](path/to/I_AS.hwpx) |
 | 10 | J | Docker & Kubernete | [J](path/to/J.pdf) |  |
 
 
