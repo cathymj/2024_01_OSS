@@ -1,6 +1,6 @@
 # 오픈소스SW 입문 (2024_01)
 
-## 주요 OSS 조사 및 테스트
+### 주요 OSS 조사 및 테스트
 | 번호 | 팀이름 | 주제 | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|----------|
 | 1 | A | Docker & Kubernetes | [A](path/to/A.pptx) | [A_A/S](path/to/A_AS.pdf) |
@@ -15,8 +15,8 @@
 | 10 | J | Docker & Kubernete | [J](path/to/J.pdf) |  |
 
 
-## 기말 팀 프로젝트
-| 번호 | 팀이름 | 주제 | github | 발표자료 |
+### 기말 팀 프로젝트
+| 번호 | 팀이름 | 주제 | github 주소 | 발표자료 |
 |:----------:|:----------:|----------|----------|:----------:|
 | 1  | A | 2048 | [https://github.com/JungHJ99/2048_KAU](https://github.com/JungHJ99/2048_KAU) |[A](path/to/A_final.pptx)  | 
 | 2  | B | FlappyBird | [https://github.com/bbky323/FlappyProject.git](https://github.com/bbky323/FlappyProject.git) | [B](path/to/B_final.pptx) |  
