@@ -18,13 +18,13 @@
 ## 기말 팀 프로젝트
 | 번호 | 팀이름 | 주제 | github | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|----------|----------|
-| 1 | A | 2048 | [https://github.com/JungHJ99/2048_KAU](https://github.com/JungHJ99/2048_KAU) | Row 1, Column 5 | Row 1, Column 6 |
-| 2 | B | FlappyBird | [https://github.com/bbky323/FlappyProject.git](https://github.com/bbky323/FlappyProject.git) | Row 2, Column 5 | Row 2, Column 6 |
-| 3 | C | SankeAndApple | [https://github.com/P-juuny/OpenSource-C.git](https://github.com/P-juuny/OpenSource-C.git) | Row 3, Column 5 | Row 3, Column 6 |
-| 4 | D | 모험게임 | [https://github.com/yeonju51/c_adventure_game.git](https://github.com/yeonju51/c_adventure_game.git) | Row 4, Column 5 | Row 4, Column 6 |
-| 5 | E | TicTacToe | [https://github.com/KAU-OSS-2024-E/OSS-tic-tac-teo](https://github.com/KAU-OSS-2024-E/OSS-tic-tac-teo)| Row 5, Column 6 |
-| 6 | F | BankingApp | [https://github.com/kau-opensw-TeamF/BankingApp.git](https://github.com/kau-opensw-TeamF/BankingApp.git) | Row 6, Column 5 | Row 6, Column 6 |
-| 7 | G | ShootingGame | [https://github.com/sxxcxng/OSS_teamG.git](https://github.com/sxxcxng/OSS_teamG.git) | Row 7, Column 5 | Row 7, Column 6 |
-| 8 | H | BattleShip | [https://github.com/KariV-824/OSS](https://github.com/KariV-824/OSS)| Row 8, Column 5 | Row 8, Column 6 |
-| 9 | I | DinosaurGame | [https://github.com/Joo-Nick/OSS-Project.git](https://github.com/Joo-Nick/OSS-Project.git) | Row 9, Column 5 | Row 9, Column 6 |
-| 10 | J | 무기강화 미니게임 | [https://github.com/OSS-J](https://github.com/OSS-J) | Row 10, Column 5 | Row 10, Column 6 |
+| 1  | A | 2048 | [https://github.com/JungHJ99/2048_KAU](https://github.com/JungHJ99/2048_KAU) |  | |
+| 2  | B | FlappyBird | [https://github.com/bbky323/FlappyProject.git](https://github.com/bbky323/FlappyProject.git) |  |  |
+| 3  | C | SankeAndApple | [https://github.com/P-juuny/OpenSource-C.git](https://github.com/P-juuny/OpenSource-C.git) |  | |
+| 4  | D | 모험게임 | [https://github.com/yeonju51/c_adventure_game.git](https://github.com/yeonju51/c_adventure_game.git) | |  |
+| 5  | E | TicTacToe | [https://github.com/KAU-OSS-2024-E/OSS-tic-tac-teo](https://github.com/KAU-OSS-2024-E/OSS-tic-tac-teo)|  | |
+| 6  | F | BankingApp | [https://github.com/kau-opensw-TeamF/BankingApp.git](https://github.com/kau-opensw-TeamF/BankingApp.git) |  | |
+| 7  | G | ShootingGame | [https://github.com/sxxcxng/OSS_teamG.git](https://github.com/sxxcxng/OSS_teamG.git) |  |  |
+| 8  | H | BattleShip | [https://github.com/KariV-824/OSS](https://github.com/KariV-824/OSS)|  |  |
+| 9  | I | DinosaurGame | [https://github.com/Joo-Nick/OSS-Project.git](https://github.com/Joo-Nick/OSS-Project.git) ||  |
+| 10 | J | 무기강화 미니게임 | [https://github.com/OSS-J](https://github.com/OSS-J) |  |  |
