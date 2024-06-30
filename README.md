@@ -6,7 +6,7 @@
 | 1 | A | Docker & Kubernetes | [A](path/to/A.pptx) | [A_A/S](path/to/A_AS.pdf) |
 | 2 | B | PyTest |  [B](path/to/B.pptx), [B_appendix](path/to/B_Appendix.pptx) | [B_A/S](path/to/B_AS.docx) |
 | 3 | C | Docker & Kubernete | [C](path/to/C.pptx) |  |
-| 4 | D | Jenkins | [D](path/to/D.pptx) |  |
+| 4 | D | Jenkins | [D](path/to/D.pptx) | [D_A/S](path/to/D_AS.docx) |
 | 5 | E | Docker & Kubernetes |  [E](path/to/E.pptx) |  |
 | 6 | F | Jenkins | [F](path/to/F.pptx) | |
 | 7 | G | PyTest | [G](path/to/G.pdf) | |
