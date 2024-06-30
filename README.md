@@ -1,6 +1,6 @@
 # 오픈소스SW 입문 (2024_01)
 
-# 주요한 OSS 조사 및 테스트
+## 주요한 OSS 조사 및 테스트
 | 번호 | 팀이름 | 주제 | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|----------|
 | 1 | A | Docker & Kubernetes | [A](path/to/A.pptx) | [A_A/S](path/to/A_AS.pdf) |
@@ -15,7 +15,7 @@
 | 10 | J | Docker & Kubernete | [J](path/to/J.pdf) | Row 10, Column 6 |
 
 
-# 기말 팀 프로젝트
+## 기말 팀 프로젝트
 | 번호 | 팀이름 | 주제 | github | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|----------|----------|
 | 1 | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 | Row 1, Column 5 | Row 1, Column 6 |
