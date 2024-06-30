@@ -3,7 +3,7 @@
 # 주요한 OSS 조사 및 테스트
 | 번호 | 팀이름 | 주제 | 발표자료 | A/S |
 |:----------:|:----------:|----------|----------|----------|
-| 1 | A | Docker & Kubernetes |  Row 1, Column 5 | Row 1, Column 6 |
+| 1 | A | Docker & Kubernetes | [A](path/to/A.pptx) | Row 1, Column 6 |
 | 2 | B | Row 2, Column 3 |  Row 2, Column 5 | Row 2, Column 6 |
 | 3 | C | Row 3, Column 3 | Row 3, Column 5 | Row 3, Column 6 |
 | 4 | D | Row 4, Column 3 | Row 4, Column 5 | Row 4, Column 6 |
